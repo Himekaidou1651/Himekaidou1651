@@ -6,9 +6,8 @@
 
 ## What I'm Doing
 
-- 学习专业课
-- 前端开发
-- 积累项目经验
+- 学习专业课(AI)
+- 几个前端项目
 
 ## Tech Stack
 
@@ -40,7 +39,10 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/wechat" width="40" title="微信开发者工具" alt="微信开发者工具" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" title="Qt" alt="Qt" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" alt="Windows" />
 </p>

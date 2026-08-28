@@ -46,3 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" title="Qt" alt="Qt" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" alt="Windows" />
 </p>
+
+<div align="center">
+  <img src="https://count.getloli.com/@Himekaidou1651?theme=gelbooru&padding=7&scale=1" alt="" />
+</div>

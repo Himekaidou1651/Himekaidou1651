@@ -47,6 +47,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" alt="Windows" />
 </p>
 
+### Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Himekaidou1651&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(36, 36, 36, 0.3);" />
+</div>
+
+### Visitor Counts
+
 <div align="center">
   <img src="https://count.getloli.com/@Himekaidou1651?theme=gelbooru&padding=7&scale=1" alt="" />
 </div>

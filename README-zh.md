@@ -1,15 +1,15 @@
 # Ottocara
 
-[汉语](./README-zh.md)
+[English](./README.md)
 
 ## About Me
 
-- I am **Ottocara**, an undergraduate at the School of Intelligence Science and Technology, Nanjing University.
+- 我是 **Ottocara**，就读于南京大学（NJU）智能科学与技术（IST）本科生学院
 
 ## What I'm Doing
 
-- Learning AI
-- Several Projects
+- 学习专业课(AI)
+- 几个项目
 
 ## Tech Stack
 

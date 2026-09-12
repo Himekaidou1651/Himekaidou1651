@@ -51,7 +51,7 @@
 ### Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Himekaidou1651&theme=tokyonight&hide_border=true&border_radius=20&v=1" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(36, 36, 36, 0.3);" />
+  <img src="https://streak-stats.demolab.com/?user=Himekaidou1651&theme=tokyonight&hide_border=true&border_radius=20&v=1" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(36, 36, 36, 0.3);margin: 1%;" />
   <img src="https://github-readme-stats-seven-theta-87.vercel.app/api/top-langs/?username=Himekaidou1651&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10" height="200" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(36,36,36,0.3); margin: 1%;" />
 </p>
 

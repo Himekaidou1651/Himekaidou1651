@@ -4,7 +4,7 @@
 
 ## About Me
 
-- I am **Ottocara**, an undergraduate at the School of Intelligence Science and Technology, Nanjing University.
+- I'm **Ottocara**, an undergraduate at the School of Intelligence Science and Technology, Nanjing University.
 
 ## What I'm Doing
 

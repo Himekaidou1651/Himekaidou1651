@@ -1,6 +1,6 @@
 # Ottocara
 
-[English](./README.md)
+[![English](https://img.shields.io/badge/Docs-English-8B5CF6?style=flat-square)](./README.md)
 
 ## About Me
 

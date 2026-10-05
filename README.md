@@ -1,6 +1,6 @@
 # Ottocara
 
-[汉语](./README-zh.md)
+[![汉语](https://img.shields.io/badge/文档-汉语-8B5CF6?style=flat-square)](./README-zh.md)
 
 ## About Me
 

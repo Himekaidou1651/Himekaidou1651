@@ -8,7 +8,7 @@
 
 ## What I'm Doing
 
-- 学习专业课(AI)
+- 学习AI
 - 几个项目
 
 ## Tech Stack

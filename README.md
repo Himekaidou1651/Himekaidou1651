@@ -13,38 +13,42 @@
 
 ## Tech Stack
 
-<table align="center" style="border-collapse: collapse; white-space: nowrap;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding: 0 8px;"><strong>Front-End</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Database</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Languages</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Tools</strong></td>
+    <td align="center" style="padding: 5px 14px;"><strong>Front-End</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue 3" />
+    </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue" alt="Vue" />
+    <td align="center" style="padding: 5px 14px;"><strong>Database</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
     </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL / MySQL" alt="MySQL" />
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px 14px;"><strong>Languages</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
     </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" title="C" alt="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" alt="C++" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python" />
-    </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" alt="PyTorch" />
-      <img src="https://cdn.simpleicons.org/wechat" width="40" title="Wechat Developer Tools" alt="Wechat Developer Tools" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" alt="VS Code" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" title="Qt" alt="Qt" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" alt="Windows" />
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px 14px;"><strong>Tools</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/WeChat_DevTools-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white" alt="WeChat Developer Tools" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="Qt" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows" />
     </td>
   </tr>
 </table>
